@@ -1,0 +1,9 @@
+Package: com.ai.vcamrebuild
+Name: VCamRebuild
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Rebuild editable iOS virtual camera tweak
+Maintainer: ai
+Author: ai
+Section: Tweaks
+Depends: mobilesubstrate
